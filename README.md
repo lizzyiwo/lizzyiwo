@@ -1,4 +1,5 @@
 Hi, I'm Elizabeth Eseoghene Williams 📊
+
 Data Analyst | I’m excited about uncovering actionable patterns in business and customer data that drive smarter decisions and reveal hidden opportunities.
 
 🔍 Analytical Focus
@@ -13,11 +14,12 @@ Databases	PostgreSQL, MySQL, SQLite
 Other	Git, Google Colab, Kaggle
 
 📂 Featured Projects
-Project Name — Edmotion Pod Task 01: First Data Project (in progress) — Exploring business/sales data using Excel for cleaning & visualization + learning to document everything cleanly on GitHub
+Project Name: Edmotion Pod Task 01: First Data Project (in progress)
+- Exploring business/sales data using Excel for cleaning & visualization + learning to document everything cleanly on GitHub
 - Coming soon: repo link & live portfolio site
   
 🌱 Currently Learning
-Completing EdMotion Pod Task 01 — building a data analyst portfolio from scratch
+Completing EdMotion Pod Task 01 - building a data analyst portfolio from scratch
 - Mastering GitHub basics: creating repositories, writing professional README files, and organizing data projects for my EdMotion pod portfolio
 - Building SQL skills: writing SELECT queries, filtering data, and joining tables, applying them alongside Excel on real datasets
   
