@@ -25,8 +25,6 @@ Completing EdMotion Pod Task 01 — building a data analyst portfolio from scrat
 I enjoy watching short drama when i'm not coding or analyzing
 
 📫 How to Reach Me
-Portfolio: lizzyiwo.github.io
-LinkedIn: https://www.linkedin.com/in/elizabeth-williams50
-Email: lizzyiwo@gmail.com
-
-Update profile README with my info
+- Portfolio: lizzyiwo.github.io
+- LinkedIn: https://www.linkedin.com/in/elizabeth-williams50
+- Email: lizzyiwo@gmail.com
