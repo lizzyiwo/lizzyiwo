@@ -8,6 +8,7 @@ A Data Analyst| Turning Excel tables and SQL queries into clear business insight
 I love exploring customer behavior and business performance problems, especially digging into sales trends, repeat purchases, and simple profitability using Excel and SQL to spot what really drives results.
 
 
+
 🧰 Toolkit
 | Category       | Tools                              |
 |----------------|------------------------------------|
@@ -17,10 +18,12 @@ I love exploring customer behavior and business performance problems, especially
 | Other          | GitHub (READMEs, repositories,etc.)|
 
 
+
 📂 Featured Projects
 - Project Name: Edmotion Pod Task 01-First Data Project (in progress)
 - Exploring business/sales data using Excel for cleaning & visualization + learning to document everything cleanly on GitHub
 - Coming soon: repo link & live portfolio site
+
 
 
 🌱 Currently Learning
@@ -28,9 +31,11 @@ I love exploring customer behavior and business performance problems, especially
 - Building SQL skills: writing SELECT queries, filtering data, and joining tablesas well as applying them alongside Excel on real datasets
 
 
+
 💡 Fun Fact
 
 I enjoy watching short drama when i'm not coding or analyzing
+
 
 
 📫 How to Reach Me
