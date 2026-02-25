@@ -13,17 +13,20 @@ I love exploring customer behavior and business performance problems, especially
 | Data Tools     | Excel, Google Sheets, GitHub       |
 | Other          | GitHub (READMEs, repositories,etc.)|
 
+
 📂 Featured Projects
 Project Name: Edmotion Pod Task 01: First Data Project (in progress)
 - Exploring business/sales data using Excel for cleaning & visualization + learning to document everything cleanly on GitHub
 - Coming soon: repo link & live portfolio site
+
 
 🌱 Currently Learning
 - Mastering GitHub basics: creating repositories, writing professional README files, and organizing data projects for my EdMotion pod portfolio
 - Building SQL skills: writing SELECT queries, filtering data, and joining tables — applying them alongside Excel on real datasets
 
 💡 Fun Fact
-I enjoy watching short drama when i'm not coding or analyzing
+-I enjoy watching short drama when i'm not coding or analyzing
+
 
 📫 How to Reach Me
 - Portfolio: https://elizabeth-lizzyiwo.github.io (coming soon!)
