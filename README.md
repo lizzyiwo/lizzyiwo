@@ -25,7 +25,7 @@ I love exploring customer behavior and business performance problems, especially
 - Building SQL skills: writing SELECT queries, filtering data, and joining tablesas well as applying them alongside Excel on real datasets
 
 💡 Fun Fact
-- I enjoy watching short drama when i'm not coding or analyzing
+ I enjoy watching short drama when i'm not coding or analyzing
 
 
 📫 How to Reach Me
