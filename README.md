@@ -4,6 +4,7 @@ A Data Analyst| Turning Excel tables and SQL queries into clear business insight
 
 
 🔍 Analytical Focus
+
 I love exploring customer behavior and business performance problems, especially digging into sales trends, repeat purchases, and simple profitability using Excel and SQL to spot what really drives results.
 
 
@@ -28,6 +29,7 @@ I love exploring customer behavior and business performance problems, especially
 
 
 💡 Fun Fact
+
 I enjoy watching short drama when i'm not coding or analyzing
 
 
