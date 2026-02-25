@@ -2,8 +2,10 @@
 
 A Data Analyst| Turning Excel tables and SQL queries into clear business insights, currently building my first portfolio with GitHub and the EdMotion pod 🚀
 
+
 🔍 Analytical Focus
 I love exploring customer behavior and business performance problems, especially digging into sales trends, repeat purchases, and simple profitability using Excel and SQL to spot what really drives results.
+
 
 🧰 Toolkit
 | Category       | Tools                              |
@@ -24,8 +26,9 @@ I love exploring customer behavior and business performance problems, especially
 - Mastering GitHub basics: creating repositories, writing professional README files, and organizing data projects for my EdMotion pod portfolio
 - Building SQL skills: writing SELECT queries, filtering data, and joining tablesas well as applying them alongside Excel on real datasets
 
+
 💡 Fun Fact
- I enjoy watching short drama when i'm not coding or analyzing
+I enjoy watching short drama when i'm not coding or analyzing
 
 
 📫 How to Reach Me
