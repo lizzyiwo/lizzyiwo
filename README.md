@@ -39,6 +39,6 @@ I enjoy watching short drama when i'm not coding or analyzing
 
 
 📫 How to Reach Me
-- Portfolio: https://elizabeth-lizzyiwo.github.io (coming soon!)
+- Portfolio: https://lizzyiwo.github.io/
 - LinkedIn: https://www.linkedin.com/in/elizabeth-williams50
 - Email: lizzyiwo@gmail.com
